@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "satterlee_assignment5/1.0.0": {
+        "runtime": {
+          "satterlee_assignment5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "satterlee_assignment5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\bin\Debug\satterlee_assignment7.exe.config
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\bin\Debug\satterlee_assignment7.exe
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\bin\Debug\satterlee_assignment7.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.Form1.resources
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.Properties.Resources.resources
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.csproj.GenerateResource.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.exe
+C:\code\MATC\itdev115-sp2021\satterlee_assignment7\satterlee_assignment7\obj\Debug\satterlee_assignment7.pdb

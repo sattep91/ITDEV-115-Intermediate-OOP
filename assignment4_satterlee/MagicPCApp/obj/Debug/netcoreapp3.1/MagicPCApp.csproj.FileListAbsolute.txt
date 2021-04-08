@@ -1,0 +1,13 @@
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.exe
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.deps.json
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.dll
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\bin\Debug\netcoreapp3.1\MagicPCApp.pdb
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.dll
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.pdb
+C:\code\MATC\itdev115-sp2021\MagicPCApp\MagicPCApp\obj\Debug\netcoreapp3.1\MagicPCApp.genruntimeconfig.cache

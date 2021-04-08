@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Satterlee_BMICalculatorApp/1.0.0": {
+        "runtime": {
+          "Satterlee_BMICalculatorApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Satterlee_BMICalculatorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

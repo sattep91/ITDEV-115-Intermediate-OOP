@@ -1,0 +1,13 @@
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.exe
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.deps.json
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.dll
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\bin\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.pdb
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.dll
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.pdb
+C:\code\MATC\itdev115-sp2021\assignment3_satterlee\Satterlee_BMICalculatorApp\Satterlee_BMICalculatorApp\obj\Debug\netcoreapp3.1\Satterlee_BMICalculatorApp.genruntimeconfig.cache
