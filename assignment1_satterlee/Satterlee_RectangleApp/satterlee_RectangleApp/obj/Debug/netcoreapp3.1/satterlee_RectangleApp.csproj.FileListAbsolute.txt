@@ -1,0 +1,12 @@
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.exe
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.deps.json
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.dll
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\bin\Debug\netcoreapp3.1\satterlee_RectangleApp.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.dll
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_RectangleApp\satterlee_RectangleApp\obj\Debug\netcoreapp3.1\satterlee_RectangleApp.genruntimeconfig.cache

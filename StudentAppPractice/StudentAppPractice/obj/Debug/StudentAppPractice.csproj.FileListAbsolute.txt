@@ -1,0 +1,13 @@
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.exe.config
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.exe
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.pdb
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.csprojAssemblyReference.cache
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.exe
+C:\Users\janes\source\repos\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.pdb
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.exe.config
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.exe
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\bin\Debug\StudentAppPractice.pdb
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.csprojAssemblyReference.cache
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.exe
+C:\Users\chrisj79\Downloads\C#ClassDemos\StudentAppPractice\StudentAppPractice\StudentAppPractice\obj\Debug\StudentAppPractice.pdb

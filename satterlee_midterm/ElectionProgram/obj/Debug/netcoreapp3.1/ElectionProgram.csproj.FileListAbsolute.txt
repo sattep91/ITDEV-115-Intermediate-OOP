@@ -1,0 +1,13 @@
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.exe
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.deps.json
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.dll
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.pdb
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.dll
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.pdb
+C:\code\MATC\itdev115-sp2021\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.genruntimeconfig.cache

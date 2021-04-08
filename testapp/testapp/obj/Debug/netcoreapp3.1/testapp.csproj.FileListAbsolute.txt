@@ -1,0 +1,13 @@
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.exe
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.deps.json
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.dll
+C:\code\MATC\itdev115-sp2021\testapp\testapp\bin\Debug\netcoreapp3.1\testapp.pdb
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.dll
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.pdb
+C:\code\MATC\itdev115-sp2021\testapp\testapp\obj\Debug\netcoreapp3.1\testapp.genruntimeconfig.cache

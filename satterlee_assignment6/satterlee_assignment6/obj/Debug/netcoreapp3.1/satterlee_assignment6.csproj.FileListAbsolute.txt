@@ -1,0 +1,13 @@
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.exe
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.deps.json
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.runtimeconfig.json
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.runtimeconfig.dev.json
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.dll
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\bin\Debug\netcoreapp3.1\satterlee_assignment6.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.csprojAssemblyReference.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.AssemblyInfoInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.AssemblyInfo.cs
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.dll
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.pdb
+C:\code\MATC\itdev115-sp2021\satterlee_assignment6\satterlee_assignment6\obj\Debug\netcoreapp3.1\satterlee_assignment6.genruntimeconfig.cache
